@@ -2,6 +2,12 @@
 Too lazy to change git remote origin to ssh? Try this
 
 ## Usage:
+### Arch linux
+1. Install using `paru -S githttptossh` (replace paru with your aur helper)
+2. Go into your repository `cd .../repository`
+3. Do `githttptossh`
+
+### Other distros
 1. Clone this repo `git clone https://github.com/Mikicrepstudios/GitHTTPToSSH`
 2. Go into it `cd GitHTTPToSSH`
 3. Give yourself execute permissions `chmod +x githttptossh.sh`
